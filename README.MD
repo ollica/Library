@@ -4,7 +4,7 @@
 
 ## 运行程序
 
-后端：运行 BookApplication 主程序
+后端：运行 BookApplication 主程序\
 前端：npm start
 
 ## 运行结果特点

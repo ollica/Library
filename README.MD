@@ -20,6 +20,7 @@
    - 使用 MongoDB 存储用户与图书的映射，示例格式如下：
 
 ```txt
+json
 {
   "userId": "user1",
   "books": [

@@ -19,14 +19,12 @@
    - 聚合用户和图书服务的数据。
    - 使用 MongoDB 存储用户与图书的映射，示例格式如下：
 
-```json
+```txt
 {
   "userId": "user1",
   "books": [
-      ```txt
       bookId1,bookId2,bookId3,
-      ...
-      ```
+      ... 
   ]
 }
 ```

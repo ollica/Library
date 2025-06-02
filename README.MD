@@ -101,7 +101,7 @@ project-root/
    - `api-gateway`
 3. 使用React(npm start)通过网关访问服务。
 
-## 运行结果特点
+## ✅运行结果特点
 
 ### 主页面
 

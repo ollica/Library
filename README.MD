@@ -114,8 +114,6 @@ project-root/
 ## 📌 未来改进方向
 
 - 集成私人生活服务
-- 使用 Resilience4j 或 Hystrix 实现断路器和服务监控
-- 添加前端 UI（如 Angular 或 React）
 
 ## 🤝 贡献方式
 

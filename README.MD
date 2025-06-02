@@ -17,15 +17,7 @@
 3. **用户-图书服务（User-Books Service）**
    - 管理用户与图书之间的关系。
    - 聚合用户和图书服务的数据。
-   - 使用 MongoDB 存储用户与图书的映射，格式如下：
-     ```json
-     {
-       "userId": "user1",
-       "bookIds": [
-         "book1","book2","book3"
-       ]
-     }
-     ```
+   - 使用 MongoDB 存储用户与图书的映射。
 
 4. **API 网关（API Gateway）**
    - 作为所有客户端请求的统一入口。

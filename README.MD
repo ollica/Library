@@ -26,12 +26,12 @@ json
 }
 ```
 
-4. **API 网关（API Gateway）**
+3. **API 网关（API Gateway）**
    - 作为所有客户端请求的统一入口。
    - 路由请求至相应微服务。
    - 提供负载均衡、鉴权（可选）、监控等能力。
 
-5. **私人生活服务（Private Life Service）** *(计划中)*
+4. **私人生活服务（Private Life Service）** *(计划中)*
    - 未来用于管理用户的私人生活相关数据。
 
 ### 🖥️ 前端（React）

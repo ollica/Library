@@ -23,8 +23,7 @@
 {
   "userId": "user1",
   "books": [
-     "bookId1,bookId2,bookId3,
-      ..."
+     "bookId1,bookId2,bookId3,..."
   ]
 }
 ```
